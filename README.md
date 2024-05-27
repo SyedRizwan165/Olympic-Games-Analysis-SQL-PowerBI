@@ -23,4 +23,4 @@ The following measures were created using DAX ( Data Analysis Expressions).
 
 The finished dashboard consist of visualization and filters that helps to navigate the summer games through history. You can filter by year, nation code for looking out for a specific country , specific participant or sports.
 
-![image](E:\Olympic games analysis\1.png)# Olympic-Games-Analysis-SQL-PowerBI
+![image](https://github.com/SyedRizwan165/Olympic-Games-Analysis-SQL-PowerBI/blob/main/Olympic%20Games.png)
